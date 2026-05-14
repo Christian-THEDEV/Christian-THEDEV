@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Christian Daniel dos Santos (Ou Chris para os mais íntimos) 👋
 
-<!--
-**Christian-THEDEV/Christian-THEDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de tecnologia e possuo formação técnica multidisciplinar nas áreas ambiental e industrial. Estou focado em evoluir minhas habilidades em desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades Técnicas
+
+* **HTML5 (Básico):** <img src="https://githubusercontent.com" alt="HTML5" width="22" height="22" align="center"/>
+* **C# (Básico):** <img src="https://githubusercontent.com" alt="C#" width="22" height="22" align="center"/>
+
+---
+
+### 📚 Formação Acadêmica
+
+* **Análise e Desenvolvimento de Sistemas** (Ensino Superior)
+  * *Instituição:* Instituto Federal (IFSP)
+  * *Status:* Em andamento
+
+* **Técnico em Manutenção de Máquinas Industriais**
+  * *Instituição:* SENAI Cubatão Hessel Horácio Cherkassky
+  * *Status:* Em andamento
+
+* **Técnico em Meio Ambiente**
+  * *Instituição:* ETEC de Cubatão
+  * *Status:* Concluído
