@@ -6,8 +6,10 @@ Atualmente sou estudante de tecnologia e possuo formação técnica multidiscipl
 
 ### 🚀 Habilidades Técnicas
 
-* **HTML5 (Básico):** <img src="https://githubusercontent.com" alt="HTML5" width="22" height="22" align="center"/>
-* **C# (Básico):** <img src="https://githubusercontent.com" alt="C#" width="22" height="22" align="center"/>
+<p align="left">
+  <img src="https://jsdelivr.net" alt="HTML5" width="35" height="35" /> &nbsp;
+  <img src="https://jsdelivr.net" alt="C#" width="35" height="35" />
+</p>
 
 ---
 
