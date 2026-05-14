@@ -1,29 +1,28 @@
-# Olá, eu sou o Christian Daniel dos Santos (Ou Chris para os mais íntimos) 👋
+# Hi, I'm Christian Daniel dos Santos (or Chris to those close to me) 👋
 
-Atualmente sou estudante de tecnologia e possuo formação técnica multidisciplinar nas áreas ambiental e industrial. Estou focado em evoluir minhas habilidades em desenvolvimento de software.
+I am currently a technology student with a multidisciplinary technical background in the environmental and industrial fields. I am focused on evolving my software development skills.
 
 ---
 
-### 🚀 Habilidades Técnicas
+### 🚀 Technical Skills
 
 <div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/csharp" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-
-<div>
+<img src="https://onrender.com" width="64px" />
+<img src="https://onrender.com" width="64px" />
+</div>
 
 ---
 
-### 📚 Formação Acadêmica
+### 📚 Education
 
-* **Análise e Desenvolvimento de Sistemas** (Ensino Superior)
-  * *Instituição:* Instituto Federal (IFSP)
-  * *Status:* Em andamento
+* **Systems Analysis and Development** (Higher Education)
+  * *Institution:* Federal Institute (IFSP)
+  * *Status:* In progress
 
-* **Técnico em Manutenção de Máquinas Industriais**
-  * *Instituição:* SENAI Cubatão Hessel Horácio Cherkassky
-  * *Status:* Em andamento
+* **Industrial Machinery Maintenance Technician** (Technical Degree)
+  * *Institution:* SENAI Cubatão Hessel Horácio Cherkassky
+  * *Status:* In progress
 
-* **Técnico em Meio Ambiente**
-  * *Instituição:* ETEC de Cubatão
-  * *Status:* Concluído
+* **Environmental Technician** (Technical Degree)
+  * *Institution:* ETEC de Cubatão
+  * *Status:* Completed
