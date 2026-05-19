@@ -1,4 +1,4 @@
-# Hi, I'm Christian Daniel dos Santos (or Chris to those close to me) 👋
+# Hi, I'm Christian Daniel dos Santos (a.k.a Chris) 👋
 
 I am currently a technology student with a multidisciplinary technical background in the environmental and industrial fields. I am focused on evolving my software development skills.
 
