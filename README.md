@@ -9,6 +9,7 @@ I am currently a technology student with a multidisciplinary technical backgroun
 <div style="display: flex; gap: 2px; align-items: center;">
 <img src="https://iconic-api.onrender.com/dark/csharp" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/CSS" width="64px" />
 </div>
 
 ---
