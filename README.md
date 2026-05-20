@@ -8,7 +8,7 @@ I am currently a technology student with a multidisciplinary technical backgroun
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,windows" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,windows,linkedin" />
   </a>
 </p>
 
